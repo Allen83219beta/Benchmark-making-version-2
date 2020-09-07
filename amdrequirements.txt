@@ -5,11 +5,12 @@ tabulate==0.8.7
 pytest-shutil==1.7.0
 pyadl==0.1
 sysctl==0.2
-py-cpuinfo==7.0.0
 google_api==0.1.12
 gspread==3.6.0
 raypy==0.0.2
 torch==0.1.2.post2
 ai-benchmark==0.1.2
+tensorflow==2.3.0
 py-cpuinfo==7.0.0
+opencv-python==4.4.0.42
 tensorflow_rocm_enhanced==2.3.0
